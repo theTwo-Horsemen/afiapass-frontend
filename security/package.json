@@ -1,0 +1,10 @@
+{
+  "name": "@afiapass/security",
+  "version": "1.0.0",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "dependencies": {
+    "react-native-quick-crypto": "^0.7.0",
+    "buffer": "^6.0.3"
+  }
+}
